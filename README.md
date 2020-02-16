@@ -1,8 +1,6 @@
-<img src="https://bot.land/dist/logo.png" alt="botland logo">
+# XYZ Firewall
 
-# Boat.World
-
-Bot.Land is a mobile and browser based game that uses automation scripts to manage units on a battlefield. We have permission from the owner to start a community project to create an alternate marketing landing page. As such, we have decided to name the project Boat.World to avoid any SEO collisions.
+XYZ firewall is a community project inspired by a project by [Dowright on Twitch.tv](https://www.twitch.tv/dowright).
 
 ### Goals of the Project
 
@@ -41,7 +39,7 @@ Your PR will be declined if it does not match the commit formatting provided.
 
 # The MIT License (MIT)
 
-Copyright © 2020 Boat.World
+Copyright © 2020 XYZ Firewall
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation

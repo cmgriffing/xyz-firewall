@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `Boat.world`,
-    description: `A community project to reimagine a marketing site for an awesome game by an awesome streamer.`,
+    title: `XYZ Firewall`,
+    description: `A mock marketing site inspired by an existing product.`,
     author: `twitch chat`,
   },
-  pathPrefix: "/boat.world",
+  pathPrefix: "/xyz-firewall",
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
